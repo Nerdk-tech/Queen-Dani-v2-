@@ -1,0 +1,14 @@
+
+{
+  "name": "queen-dani-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "moment": "^2.29.4",
+    "pino": "^8.0.0"
+  }
+}
